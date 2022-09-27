@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Vehicle Engineering, Dalian Jiaotong University, 2014
+* M.S. in Transportation Engineering, Tongji University, 2021
+* Ph.D in System Engineering, Arizona State University, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022: Graduate Research Associate with the Dynamic Systems and Control Laboratory
+  * Arizona State University
+  %* Duties included: Tagging issues
+  * Supervisor: Dr. Yan Chen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+%* Fall 2015: Research Assistant
+%  * Github University
+%  * Duties included: Merging pull requests
+%  * Supervisor: Professor Hub
   
 Skills
 ======
