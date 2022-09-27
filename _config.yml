@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Gang Wang"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD student at Arizona State University"
-  location         : "Mesa, Arizona"
+  location         : "Mesa, Arizona, 85212, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
