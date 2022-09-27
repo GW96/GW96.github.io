@@ -1,7 +1,7 @@
 ---
 title: "Wheelset lateral force factor and critical offset distance of the centre pivot of articulated train"
 collection: publications
-#permalink: /publication/2010-10-01-paper-title-number-2
+#permalink: /publication/2021-12-02-paper-Wheelset
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-12-02
 venue: 'Vehicle System Dynamics'
