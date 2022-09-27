@@ -10,3 +10,7 @@ redirect_from:
 ## Honors&Awards
 
 * 2022.01 Excellent Thesis for Master of Tongji University
+
+## Honors&Awards
+
+* 2022.01 Excellent Thesis for Master of Tongji University
