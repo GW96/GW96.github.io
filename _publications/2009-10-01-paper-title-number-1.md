@@ -1,15 +1,15 @@
 ---
 title: "Performance analysis of a newly designed single air spring running gear for automated people mover (APM)"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#permalink: /publication/2009-10-01-paper-title-number-1
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-12-02
 venue: 'Vehicle System Dynamics'
 paperurl: 'https://doi.org/10.1080/00423114.2020.1798475'
-#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Gang Wang, Yuanjin Ji, Lihui Ren, Han Leng & Youpei Huang (2021) Performance analysis of a newly designed single air spring running gear for automated people mover (APM), Vehicle System Dynamics, 59:12, 1963-1986, DOI: 10.1080/00423114.2020.1798475.'
 ---
 The APM 300 running gear structure follows the structural design of the automobile steering drive axle; therefore, the lateral stiffness of the suspension system is considerable, resulting in poor lateral ride comfort. To improve the lateral ride comfort of the vehicle, this paper proposed a new type of running gear called single air spring running gear (SARG), and according to the original loading conditions, the parameters of the SARG air spring are modified. By establishing a theoretical model of linear steady-state curve negotiation of the single-axle tyre running gear, the radial adjusting index is deduced to evaluate the radial performance of the SARG. By establishing the force analysis model of APM rolling in the static state, APM’s flexibility coefficient is obtained to evaluate the anti-overturning capacity. The influence of running gear parameters on the flexibility coefficient is discussed in detail. Based on this, the stiffness of the SARG anti-roll bar is determined.  By comparing the dynamic performance of both types of vehicles, the SARG advantages are proved. Finally, several improvements on the SARG structure are proposed for its adaptation to more complex scenario.
 
 #[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Gang Wang, Yuanjin Ji, Lihui Ren, Han Leng & Youpei Huang (2021) Performance analysis of a newly designed single air spring running gear for automated people mover (APM), Vehicle System Dynamics, 59:12, 1963-1986, DOI: 10.1080/00423114.2020.1798475.
+#Recommended citation: Gang Wang, Yuanjin Ji, Lihui Ren, Han Leng & Youpei Huang (2021) Performance analysis of a newly designed single air spring running gear for automated people mover (APM), Vehicle System Dynamics, 59:12, 1963-1986, DOI: 10.1080/00423114.2020.1798475.
