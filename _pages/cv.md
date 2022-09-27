@@ -19,22 +19,9 @@ Work experience
 ======
 * 2022: Graduate Research Associate with the Dynamic Systems and Control Laboratory
   * Arizona State University
-  %* Duties included: Tagging issues
+  * Duties included: Tagging issues
   * Supervisor: Dr. Yan Chen
 
-%* Fall 2015: Research Assistant
-%  * Github University
-%  * Duties included: Merging pull requests
-%  * Supervisor: Professor Hub
-  
-Skills
-======
-%* Skill 1
-%* Skill 2
-%  * Sub-skill 2.1
-%  * Sub-skill 2.2
-%  * Sub-skill 2.3
-%* Skill 3
 
 Publications
 ======
