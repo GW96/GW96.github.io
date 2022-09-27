@@ -1,6 +1,6 @@
 ---
 permalink: /HonorsAwards/
-title: "Honors&Awards"
+title: "Honors & Awards"
 author_profile: true
 
 ## Honors&Awards
