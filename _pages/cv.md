@@ -19,7 +19,6 @@ Work experience
 ======
 * 2022: Graduate Research Associate with the Dynamic Systems and Control Laboratory
   * Arizona State University
-  * Duties included: Tagging issues
   * Supervisor: Dr. Yan Chen
 
 
@@ -41,6 +40,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+
