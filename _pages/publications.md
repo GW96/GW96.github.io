@@ -17,6 +17,8 @@ author_profile: true
 {% endfor %}
 
 ## Other Published Papers
+[6] Fengchen Wang, Gang Wang, Yan Chen, Adaptive Spacing Policy Design of Flocking Control for Multi-agent Vehicular Systems, IFAC-PapersOnLine, Volume 55, Issue 37,2022,Pages 524-529
+
 [5] Wang, G., Ren, L., Ji, Y., Leng, H., Huang, Y. (2022). Research on Dynamic Characteristics of the APM 300 Current Collector. In: Orlova, A., Cole, D. (eds) Advances in Dynamics of Vehicles on Roads and Tracks II. IAVSD 2021. Lecture Notes in Mechanical Engineering. Springer, Cham. https://doi.org/10.1007/978-3-031-07305-2_15
 
 [4] Huang, Y., Gong, D., Ji, Y., Leng, H., Wang, G., Ren, L. (2022). Study on Longitudinal Stability of Single-Carbody Low-Floor Tram. In: Orlova, A., Cole, D. (eds) Advances in Dynamics of Vehicles on Roads and Tracks II. IAVSD 2021. Lecture Notes in Mechanical Engineering. Springer, Cham. https://doi.org/10.1007/978-3-031-07305-2_19
