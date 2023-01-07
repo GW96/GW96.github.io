@@ -17,8 +17,6 @@ author_profile: true
 {% endfor %}
 
 ## Other Published Papers
-[7] G. Wang, M. Liu, F. Wang and Y. Chen, "A Novel and Elliptical Lattice Design of Flocking Control for Multi-agent Ground Vehicles," in IEEE Control Systems Letters, doi: 10.1109/LCSYS.2022.3231628.
-
 [6] Fengchen Wang, Gang Wang, Yan Chen, Adaptive Spacing Policy Design of Flocking Control for Multi-agent Vehicular Systems, IFAC-PapersOnLine, Volume 55, Issue 37,2022,Pages 524-529
 
 [5] Wang, G., Ren, L., Ji, Y., Leng, H., Huang, Y. (2022). Research on Dynamic Characteristics of the APM 300 Current Collector. In: Orlova, A., Cole, D. (eds) Advances in Dynamics of Vehicles on Roads and Tracks II. IAVSD 2021. Lecture Notes in Mechanical Engineering. Springer, Cham. https://doi.org/10.1007/978-3-031-07305-2_15
