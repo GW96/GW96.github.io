@@ -1,0 +1,13 @@
+---
+title: "A Novel and Elliptical Lattice Design of Flocking Control for Multi-Agent Ground Vehicles"
+collection: publications
+#permalink: /publication/2021-12-02-paper-APM
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2022-12-23
+venue: 'IEEE Control Systems Letters'
+paperurl: 'https://doi.org/10.1109/LCSYS.2022.3231628'
+citation: 'G. Wang, M. Liu, F. Wang and Y. Chen, "A Novel and Elliptical Lattice Design of Flocking Control for Multi-Agent Ground Vehicles," in IEEE Control Systems Letters, vol. 7, pp. 1159-1164, 2023, doi: 10.1109/LCSYS.2022.3231628.'
+---
+Abstract: Flocking control of multi-agent ground vehicles recently attracted rising attention because of its strength in extending 1D platooning to coordinated 2D movements. However, the uniform interaction ranges and the non-defined orientation of the flocking lattice make flocking control of ground vehicles face some key issues. To achieve cooperative motions of connected and automated vehicles (CAVs), this letter proposed a novel and elliptical lattice to extend the existing flocking theory with a uniform hexagon lattice. The proposed elliptical lattice is designed based on the characteristics of the vehicle heading direction, velocity, minimum safety distance, and lane width to analytically adapt to vehicle driving environments. Moreover, a new flocking control law considering road boundaries’ (permanent) repulsive forces is developed to ensure the desired formation at a steady state. Simulation results show that the proposed elliptical lattice of flocking control can be applied to realize cooperative driving of multi-agent CAVs with the desired formation on the road.
+
+Recommended citation: G. Wang, M. Liu, F. Wang and Y. Chen, "A Novel and Elliptical Lattice Design of Flocking Control for Multi-Agent Ground Vehicles," in IEEE Control Systems Letters, vol. 7, pp. 1159-1164, 2023, doi: 10.1109/LCSYS.2022.3231628.
