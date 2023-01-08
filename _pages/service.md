@@ -4,14 +4,6 @@ title: "Service"
 permalink: /service/
 author_profile: true
 ---
-
-{% include base_path %}
-
-
-{% for post in site.service %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## Reviewer for Journals
 * IEEE Transactions on Vehicular Technology
 
