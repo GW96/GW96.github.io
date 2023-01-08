@@ -42,4 +42,6 @@ Teaching
   
 Service
 ======
-
+  <ul>{% for post in site.service %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
