@@ -17,15 +17,17 @@ author_profile: true
 {% endfor %}
 
 ## Other Published Papers
-[6] Fengchen Wang, Gang Wang, Yan Chen, Adaptive Spacing Policy Design of Flocking Control for Multi-agent Vehicular Systems, IFAC-PapersOnLine, Volume 55, Issue 37,2022,Pages 524-529
+[7] G. Wang, Y. Chen, "Flocking Control of Multi-agent Automated Vehicles for Curved Driving: A Polyline Leader Approach," in IFAC-PapersOnLine, vol. 56, no. 3, pp. 253-258, 2023. ISSN 2405-8963. [Online]. Available: https://doi.org/10.1016/j.ifacol.2023.12.033.
 
-[5] Wang, G., Ren, L., Ji, Y., Leng, H., Huang, Y. (2022). Research on Dynamic Characteristics of the APM 300 Current Collector. In: Orlova, A., Cole, D. (eds) Advances in Dynamics of Vehicles on Roads and Tracks II. IAVSD 2021. Lecture Notes in Mechanical Engineering. Springer, Cham. https://doi.org/10.1007/978-3-031-07305-2_15
+[6] F. Wang, G. Wang, Y. Chen, "Adaptive Spacing Policy Design of Flocking Control for Multi-agent Vehicular Systems," in IFAC-PapersOnLine, vol. 55, no. 37, pp. 524-529, 2022.
 
-[4] Huang, Y., Gong, D., Ji, Y., Leng, H., Wang, G., Ren, L. (2022). Study on Longitudinal Stability of Single-Carbody Low-Floor Tram. In: Orlova, A., Cole, D. (eds) Advances in Dynamics of Vehicles on Roads and Tracks II. IAVSD 2021. Lecture Notes in Mechanical Engineering. Springer, Cham. https://doi.org/10.1007/978-3-031-07305-2_19
+[5] G. Wang, L. Ren, Y. Ji, H. Leng, Y. Huang, "Research on Dynamic Characteristics of the APM 300 Current Collector," in Advances in Dynamics of Vehicles on Roads and Tracks II, A. Orlova and D. Cole, Eds. Cham: Springer, 2022, Lecture Notes in Mechanical Engineering. [Online]. Available: https://doi.org/10.1007/978-3-031-07305-2_15.
 
-[3] REN Li-hui, LI Wen, LENG Han, JI Yuan-jin, WANG Gang. Research on dynamics of rail transit vehicle with tire running gears: state-of-arts and challenges[J]. Journal of Traffic and Transportation Engineering, 2021, 21(6): 8-30. doi: 10.19818/j.cnki.1671-1637.2021.06.002
+[4] Y. Huang, D. Gong, Y. Ji, H. Leng, G. Wang, L. Ren, "Study on Longitudinal Stability of Single-Carbody Low-Floor Tram," in Advances in Dynamics of Vehicles on Roads and Tracks II, A. Orlova and D. Cole, Eds. Cham: Springer, 2022, Lecture Notes in Mechanical Engineering. [Online]. Available: https://doi.org/10.1007/978-3-031-07305-2_19.
 
-[2] Gang Wang, Shijia Pan, and Susu Xu. 2021. Decoupling the unfairness propagation chain in crowd sensing and learning systems for spatio-temporal urban monitoring. In Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '21). Association for Computing Machinery, New York, NY, USA, 200–203. https://doi.org/10.1145/3486611.3486669
+[3] L.-h. Ren, W. Li, H. Leng, Y.-j. Ji, G. Wang, "Research on dynamics of rail transit vehicle with tire running gears: state-of-arts and challenges," Journal of Traffic and Transportation Engineering, vol. 21, no. 6, pp. 8-30, 2021. doi: 10.19818/j.cnki.1671-1637.2021.06.002.
 
-[1] Wang, G., Ren, L., Ji, Y., Huang, Y. (2020). Critical Offset Distance of Center Plate Based on Wheelset Lateral Force Factor. In: Klomp, M., Bruzelius, F., Nielsen, J., Hillemyr, A. (eds) Advances in Dynamics of Vehicles on Roads and Tracks. IAVSD 2019. Lecture Notes in Mechanical Engineering. Springer, Cham. https://doi.org/10.1007/978-3-030-38077-9_62
+[2] G. Wang, S. Pan, S. Xu, "Decoupling the unfairness propagation chain in crowd sensing and learning systems for spatio-temporal urban monitoring," in Proc. 8th ACM Int. Conf. on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '21), New York, NY, USA, 2021, pp. 200–203. [Online]. Available: https://doi.org/10.1145/3486611.3486669.
+
+[1] G. Wang, L. Ren, Y. Ji, Y. Huang, "Critical Offset Distance of Center Plate Based on Wheelset Lateral Force Factor," in Advances in Dynamics of Vehicles on Roads and Tracks, M. Klomp, F. Bruzelius, J. Nielsen, A. Hillemyr, Eds. Cham: Springer, 2020, Lecture Notes in Mechanical Engineering. [Online]. Available: https://doi.org/10.1007/978-3-030-38077-9_62.
 
